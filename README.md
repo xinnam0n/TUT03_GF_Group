@@ -252,11 +252,12 @@ We used:
 | Student 1 | kliu0358 | https://github.com/xinnam0n/kliu0358_9103_TUT03_Majorproject.git |
 | Student 2 | tron0999 | https://github.com/PearAccount/tron0999_IDEA9103_TUT3_GroupF_Perlin-noise-and-randomness-Variation |
 | Student 3 | yliu0516 | https://github.com/yiting6/yliu0516_9103_tut03 |
+|   Group   | -------- | https://github.com/xinnam0n/TUT03_GF_Group.git
 
 ---
 
 ### **Reference**
 The artwork used for inspiration:  
-Pacita Abad's Wheels of fortune
+__Pacita Abad's Wheels of fortune__
 
 ---
